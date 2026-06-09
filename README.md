@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-night-together-sad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Last Night Together Sad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-together-sad/) |
+| **Get License** | [License this song: Last Night Together Sad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-together-sad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c707527750a3e3a3b8ac4416c644256491a48e3de2a31e8b12651e5843d86f37` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
